@@ -2,7 +2,7 @@
 Proyecto Final Univalle Posgrado 
 
 # 1. Clona el repositorio
-git clone
+git clone https://github.com/ariel-pa/my-book-saas
 
 # 2. Entra en el directorio del proyecto
 cd book-react-native-project
